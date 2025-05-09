@@ -1,6 +1,8 @@
 # 📚 Estudos FrontEnd
 
-- 💼 Estudos feitos de maneira autônoma.
+- 💼 Estudos feitos de maneira autônoma, visando me ajudar a evoluir na área da programação e também a concluir meu primeiro projeto. (Link a baixo)
+
+*Clique aqui para ve-lo: [Portfolio](https://github.com/JtaXd/Portfolio)*
 
 ---
 
